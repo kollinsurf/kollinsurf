@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kollinsurf
-- 👀 I’m interested in softaware development and Data analysis
+- 👀 I’m interested in software development and Data analysis
 - 🌱 I’m currently learning Sofatware deveopment stacks
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
